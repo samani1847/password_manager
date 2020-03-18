@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:password_manager/screens/account_detail.dart';
 import 'package:password_manager/screens/account_list.dart';
 
 void main() {
